@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Studeninfo_2415053122235."
+rootProject.name = "Studeninfo_2415053122235"
 include(":app")
  
